@@ -5,5 +5,5 @@
    4) Nahraj celý priečinok na hosting — hotovo.
    Ak necháš null, online režim sa vypne a hra funguje na jednom telefóne. */
 window.KYSUCE_FIREBASE = {
-  databaseURL: null  // napr. "https://kysuce167-default-rtdb.europe-west1.firebasedatabase.app"
+  databaseURL: "https://kysuce167-50cac-default-rtdb.europe-west1.firebasedatabase.app"
 };
